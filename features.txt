@@ -1,0 +1,13 @@
+Melt temperature
+Mold temperature
+time_to_fill
+ZDx - Plasticizing time
+ZUx - Cycle time
+SKx - Closing force
+SKs - Clamping force peak value
+Ms - Torque peak value current cycle
+Mm - Torque mean value current cycle
+APSs - Specific back pressure peak value
+APVs - Specific injection pressure peak value
+CPn - Screw position at the end of hold pressure
+SVo - Shot volume
