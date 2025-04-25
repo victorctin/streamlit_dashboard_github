@@ -44,8 +44,6 @@ The dataset contains 1,000 production cycle observations from injection molding 
 
 The Random Forest and Extra Trees classifiers demonstrated top performance (~94% accuracy). The deployed Streamlit dashboard provides interactive real-time anomaly detection, enabling proactive decision-making and process optimization.
 
-## Repository Structure
-
 
 
 # Product Quality Prediction Dashboard
