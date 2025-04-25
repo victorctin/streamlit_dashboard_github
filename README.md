@@ -24,6 +24,7 @@ The dataset contains 1,000 production cycle observations from injection molding 
 
 1. **Data Preprocessing:**
    - Exploratory analysis and visualization
+   - Pairwise correlation matrix
    - Handling outliers using the Interquartile Range (IQR)
    - Data scaling (standardization)
 
